@@ -1,4 +1,4 @@
-# HI my name is ahmed and this is my engineering final project development of visual inpection system for water bottle based on deep learning (transfer learning)
+# HI my name is Ahmed TAIBECHE and this is my engineering final project: development of visual inpection system for water bottle based on deep learning (transfer learning)
 
 # Water Bottle Visual Inspection System
 
