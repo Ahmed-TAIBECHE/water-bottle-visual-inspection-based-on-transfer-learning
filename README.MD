@@ -1,4 +1,6 @@
 # HI my name is Ahmed TAIBECHE and this is my engineering final project: development of visual inpection system for water bottle based on deep learning (transfer learning)
+# For more details see `report/PFE_report.pdf`, # it's in french try to use google chrome if u want to read it in english use the translator tool for the pdf
+#see Chapter 1, 2 and 3
 
 # Water Bottle Visual Inspection System
 
